@@ -1,0 +1,41 @@
+//
+//  XXPrefixHeader.pch
+//  LLMovie
+//
+//  Created by cfc-zhaoxianxin on 2021/3/12.
+//
+
+#ifndef XXPrefixHeader_pch
+#define XXPrefixHeader_pch
+
+#import "UIView+XXFrame.h"
+#import "XXDeviceAdaptor.h"
+#import "UIColor+XXHex.h"
+#import "LLMovieModel.h"
+#import "UIImageView+Local.h"
+#import "LLRouterManager.h"
+#import "CALayer+Corner.h"
+#import "JKAlert.h"
+#import "LLUserManager.h"
+#import "NSString+Regex.h"
+#import <YYModel/YYModel.h>
+#import "LLShareDataCache.h"
+
+#if DEBUG
+#else
+#define NSLog(...)
+#endif
+
+#define XX_CACHE_NAME_KEY @"xx_cache_user_key"
+#define XX_CACHE_NICK_KEY @"xx_cache_nick_key"
+#define XX_CACHE_IMG_KEY @"xx_cache_image_key"
+#define XX_CACHE_PWD_KEY @"xx_cache_password_key"
+
+#define XX_LOGIN_TEST_NAME_PRE @"137"
+#define XX_LOGIN_TEST_CODE @"1234"
+
+#define XX_PROTOCOL_REGEIST_LINK @"http://fqsq.kaiyundashi.cn/wanbo_register.html"
+#define XX_PROTOCOL_PRIVACY_LINK @"http://fqsq.kaiyundashi.cn/wanbo_privacy.html"
+#define XX_PROTOCOL_SERVICE_LINK @"http://www.twier.cn"
+
+#endif /* XXPrefixHeader_pch */

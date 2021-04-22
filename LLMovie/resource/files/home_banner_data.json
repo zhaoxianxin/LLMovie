@@ -1,0 +1,171 @@
+[{
+    "score": 8.0,
+    "flowDid": 36,
+    "title": "送你一朵小红花",
+    "titleEng": "A Little Red Flower",
+    "hasFlowWill": true,
+    "desc": "两个抗癌家庭，两组生活轨迹。影片讲述了一个温情的现实故事，思考和直面了每一个普通人都会面临的终极问题——想象死亡随时可能到来，我们唯一要做的就是爱和珍惜。",
+    "labelList": ["剧情", "家庭", "青春"],
+    "modelId": 1,
+    "flowWill": 20,
+    "thumbImage": "xx_movie_1_thumb@3x",
+    "showTime": "2020-12-31",
+    "showPlace": "中国",
+    "totalMinute": 128,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "韩延",
+            "userIcon": "xx_movie_1_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "易烊千玺",
+            "userIcon": "xx_movie_1_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "刘浩存",
+            "userIcon": "xx_movie_1_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "朱媛媛",
+            "userIcon": "xx_movie_1_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "高亚麟",
+            "userIcon": "xx_movie_1_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "夏雨",
+            "userIcon": "xx_movie_1_yy_5@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 1,
+            "userIcon": "xx_rand_header_1@3x",
+            "userName": "",
+            "content": "挺不错的，温暖的同时，又暗暗鼓舞着我们",
+            "time": "2021-03-23 18:30:20",
+        },
+        {
+            "modelId": 2,
+            "userIcon": "xx_rand_header_2@3x",
+            "userName": "",
+            "content": "生命可贵，可生活实在不易，如此还留恋这个世界，只是因为这个世界我们心爱的人。希望要自己寻找、自己坚定，而不能靠别人给予。各种情感处理能把握分寸，没有为了搞笑而夸张，也没有为了煽情而过于做作。不过结局处理的有点草率，没有起到加深主题的作用，反而有点落于俗套了",
+            "time": "2021-03-21 15:32:22",
+        },
+        {
+            "modelId": 3,
+            "userIcon": "xx_rand_header_3@3x",
+            "userName": "",
+            "content": "已是两个孩子的爸的我特别能理解剧中父母的心情，电影把这份情感演绎的很到位",
+            "time": "2021-03-21 18:30:20",
+        },
+        {
+            "modelId": 4,
+            "userIcon": "xx_rand_header_4@3x",
+            "userName": "",
+            "content": "现实的生活很不容易，有各种各样的压力。可我们还是要积极生活",
+            "time": "2021-03-20 19:10:22",
+        },
+        {
+            "modelId": 5,
+            "userIcon": "xx_rand_header_5@3x",
+            "userName": "",
+            "content": "这部电影讲的就是两个癌症患者的小孩互相鼓励的故事吧，立意很好，剧情也还可以，四字弟弟的演技也很舒服，提高了很多",
+            "time": "2021-02-21 17:20:22",
+        }
+    ]
+}, {
+    "score": 7.0,
+    "flowDid": 28,
+    "title": "刺杀小说家",
+    "titleEng": "A Writer's Odyssey",
+    "hasFlowWill": true,
+    "desc": "异世界皇都，天神赤发鬼残暴统治，滥杀无辜。少年空文因被赤发鬼追杀，决定奋起反击。在黑甲（郭京飞 饰）的指引下，踏上了凡人弑神之路。这是小说家路空文（董子健 饰）笔下的奇幻世界。没想到小说的进程，竟然影响着现实世界。这时一名男子（雷佳音 饰）接下了刺杀他的任务",
+    "labelList": ["动作", "科幻", "冒险"],
+    "modelId": 2,
+    "flowWill": 21,
+    "thumbImage": "xx_movie_2_thumb@3x",
+    "showTime": "2020-02-12",
+    "showPlace": "中国",
+    "totalMinute": 130,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "路阳",
+            "userIcon": "xx_movie_2_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "雷佳音",
+            "userIcon": "xx_movie_2_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "杨幂",
+            "userIcon": "xx_movie_2_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "董子健",
+            "userIcon": "xx_movie_2_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "于和伟",
+            "userIcon": "xx_movie_2_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "郭京飞",
+            "userIcon": "xx_movie_2_yy_5@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 7,
+            "userName": "佟丽娅",
+            "userIcon": "xx_movie_2_yy_6@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 6,
+            "userIcon": "xx_rand_header_6@3x",
+            "userName": "",
+            "content": "细究起来，剧情有一些值得商榷的bug。比如最后小说既然可以由关宁代笔，为什么不更简直粗暴地直接给赤发一击暴毙？按理说，关宁就是想尽快救出小橘子而已。不过整部电影最值得探讨和玩味的地方却不在场面和剧情，而是精心设计的现实与小说两个世界的奇妙互文和因果循环。小说先影响了现实，现实又反哺了小说，路阳进行了一次很有想法的叙事创新",
+            "time": "2021-03-25 10:32:21",
+        },
+        {
+            "modelId": 7,
+            "userIcon": "xx_rand_header_7@3x",
+            "userName": "",
+            "content": "特效还行 剧情不太行 图灵反水得太快了 可能电影篇幅不够 所以没咋展开吧",
+            "time": "2021-03-24 19:30:12",
+        },
+        {
+            "modelId": 8,
+            "userIcon": "xx_rand_header_8@3x",
+            "userName": "",
+            "content": "之前看了网上一些评价，还以为前面会无聊，果然每个人观感不一样，还不错",
+            "time": "2021-03-21 14:31:20",
+        }
+    ]
+}]

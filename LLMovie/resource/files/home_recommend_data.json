@@ -1,0 +1,527 @@
+[{
+    "score": 8.1,
+    "flowDid": 21,
+    "title": "无依之地",
+    "titleEng": "Nomadland",
+    "desc": "基于Jessica Bruder所著书籍《Nomadland: Surviving America in the Twenty-First Century》，讲述一个60多岁的女人在经济大萧条中失去了一切，她作为一个居住在货车里的现代游牧民，开始了穿越美国西部的旅程",
+    "labelList": ["剧情", "文艺"],
+    "modelId": 3,
+    "flowWill": 15,
+    "imageUrl": "xx_movie_3_icon@3x",
+    "thumbImage": "xx_movie_3_thumb@3x",
+    "showTime": "2020-09-11",
+    "showPlace": "悉尼",
+    "totalMinute": 108,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "弗兰西斯·麦克多蒙德",
+            "userIcon": "xx_movie_3_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "大卫·斯特雷泽恩",
+            "userIcon": "xx_movie_3_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "德里克·贾尼斯",
+            "userIcon": "xx_movie_3_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "泰·斯特雷泽恩",
+            "userIcon": "xx_movie_3_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "卡特·克利福德",
+            "userIcon": "xx_movie_3_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "帕特里夏·格里尔",
+            "userIcon": "xx_movie_3_yy_5@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 9,
+            "userIcon": "xx_rand_header_9@3x",
+            "userName": "",
+            "content": "因为配乐太熟悉，以至于勾起了其它回忆，让我稍稍有一些出戏。除此之外，都很好。身处野性的自然间，一切都是渺小的。唯有爱和孤独，可以连接宇宙。希望能见大银幕。",
+            "time": "2020-10-12 09:32:22",
+        },
+        {
+            "modelId": 10,
+            "userIcon": "xx_rand_header_10@3x",
+            "userName": "",
+            "content": "看完不觉得孤寂凄惨，反而觉得很舒服自在。虽然有很多被动的因素，但弗恩还是主动找到了最适合自己的生存方式。她只是没有房子，并不代表她没有家。就像邦妮说的那样：我们能同时处在乐观和挣扎两种状态上。",
+            "time": "2020-10-11 18:32:22",
+        }
+    ]
+}, {
+    "score": 7.3,
+    "flowDid": 30,
+    "title": "人潮汹涌",
+    "titleEng": "",
+    "desc": "2021年，你做好准备换个活法，牛转乾坤了吗？ 顶级杀手周全（刘德华 饰）和落寞群演陈小萌（肖央 饰）在一次意外中交换了身份。杀手在跌入谷底的过程中，重新审视了爱情和生活；群演在冒充杀手的过程中，彻底重塑了人生。两个人一起历经的荒诞，有啼笑皆非，更有热血沸腾。",
+    "labelList": ["喜剧", "犯罪"],
+    "modelId": 4,
+    "flowWill": 19,
+    "imageUrl": "xx_movie_4_icon@3x",
+    "thumbImage": "xx_movie_4_thumb@3x",
+    "showTime": "2021-02-12",
+    "showPlace": "中国",
+    "totalMinute": 119,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "饶晓志",
+            "userIcon": "xx_movie_4_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "刘德华",
+            "userIcon": "xx_movie_4_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "肖央",
+            "userIcon": "xx_movie_4_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "泰·斯特雷泽恩",
+            "userIcon": "xx_movie_4_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "万茜",
+            "userIcon": "xx_movie_4_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "程怡",
+            "userIcon": "xx_movie_5_yy_5@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 7,
+            "userName": "黄小蕾",
+            "userIcon": "xx_movie_6_yy_5@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 11,
+            "userIcon": "xx_rand_header_11@3x",
+            "userName": "",
+            "content": "有笑点，虽然是改编但是本土化的非常棒，刘德华果然是实力派，失忆跟想起来差异巨大，一个眼神就知道了~这部电影很有点戏说人生的感觉！",
+            "time": "2021-03-23 09:40:22",
+        },
+        {
+            "modelId": 12,
+            "userIcon": "xx_rand_header_12@3x",
+            "userName": "",
+            "content": "春节档看的觉得最值回票价的一部电影了可以说",
+            "time": "2021-03-21 18:32:22",
+        },
+        {
+            "modelId": 13,
+            "userIcon": "xx_rand_header_13@3x",
+            "userName": "",
+            "content": "前三分之一有点拖散，后面渐入佳境。故事比较饱满流畅。有悬疑片份儿。支持华仔。其他人都是不错发挥。说她是2021年度最佳不敢太武断，前三必有《人潮汹涌》！",
+            "time": "2021-03-02 17:33:24",
+        },
+        {
+            "modelId": 14,
+            "userIcon": "xx_rand_header_14@3x",
+            "userName": "",
+            "content": "自律的人什么情况下都能过好生活！",
+            "time": "2021-03-01 19:42:32",
+        }
+    ]
+}, {
+    "score": 7.4,
+    "flowDid": 27,
+    "title": "哪吒重生",
+    "titleEng": "",
+    "desc": "三千年前，天下动荡，人神共遇大劫，不想哪吒的一缕魂魄逃脱天罗地网，世世转世投胎，这一世与东海市酷爱机车的热血青年李云祥人神共生。然而龙族对哪吒恩怨并未善罢甘休，有着哪吒元神的李云祥，亦无法逃脱被龙族赶尽杀绝的宿命。东海危在旦夕，李云祥是否能够与哪吒元神并肩作战，成为抵抗龙族的英雄？东海市的子民能否得到拯救？",
+    "labelList": ["动画", "奇幻", "动作"],
+    "modelId": 5,
+    "flowWill": 22,
+    "imageUrl": "xx_movie_5_icon@3x",
+    "thumbImage": "xx_movie_5_thumb@3x",
+    "showTime": "2021-02-12",
+    "showPlace": "中国",
+    "totalMinute": 116,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "赵霁",
+            "userIcon": "xx_movie_5_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "杨天翔",
+            "userIcon": "xx_movie_5_yy_1@3x",
+            "roleName": "配音",
+        },
+        {
+            "modelId": 3,
+            "userName": "张赫",
+            "userIcon": "xx_movie_5_yy_2@3x",
+            "roleName": "配音",
+        },
+        {
+            "modelId": 4,
+            "userName": "宣晓鸣",
+            "userIcon": "xx_movie_5_yy_3@3x",
+            "roleName": "配音",
+        },
+        {
+            "modelId": 5,
+            "userName": "李诗萌",
+            "userIcon": "xx_movie_5_yy_4@3x",
+            "roleName": "配音",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 15,
+            "userIcon": "xx_rand_header_15@3x",
+            "userName": "",
+            "content": "追光的白蛇画面真的算国内顶尖了，剧情嘛，希望比白蛇有进步，看完，我仿佛看了破产版海王，画面特效顶尖，节奏还差点火候，不够张弛有度，稍微紧凑一点更好，但是世界观引入非常大胆耳目一新，民国架空，四大家族，很大一盘棋，瑕不掩瑜，期待新封神系列，再接再厉吧",
+            "time": "2021-03-20 09:42:22",
+        },
+        {
+            "modelId": 16,
+            "userIcon": "xx_rand_header_16@3x",
+            "userName": "",
+            "content": "真神仙打架，特效很不错，动作戏很精彩，盖住了故事和剧情上的短板，配乐也有点拉垮。无奈和《哪吒》撞车，后上就难免尴尬",
+            "time": "2021-03-18 18:42:22",
+        },
+        {
+            "modelId": 17,
+            "userIcon": "xx_rand_header_17@3x",
+            "userName": "",
+            "content": "点映过完这些天，想起来依然很爽。抽筋扒皮，干死独裁！我大空空这次真的空空了！先解构哪吒，再重建意义",
+            "time": "2021-03-16 19:12:20",
+        }
+    ]
+}, {
+    "score": 8.6,
+    "flowDid": 40,
+    "title": "心灵奇旅",
+    "titleEng": "Soul",
+    "desc": "究竟是什么塑造了真正的你？电影将聚焦乔伊·高纳（杰米·福克斯配音）。这位中学音乐老师获得了梦寐以求的机会——在纽约最好的爵士俱乐部演奏。但一个小失误把他从纽约的街道带到了一个奇幻的地方“生之来处”（the Great Before）。在那里，灵魂们获得培训，在前往地球之前将获得他们的个性特点和兴趣。决心要回到地球生活的乔伊认识了一个早熟的灵魂“二十二”（蒂娜·菲 配音），二十二一直找不到自己对于人类生活的兴趣。随着乔伊不断试图向二十二展示生命的精彩之处，他也将领悟一些人生终极问题的答案。",
+    "labelList": ["动画", "奇幻", "音乐"],
+    "modelId": 6,
+    "flowWill": 29,
+    "imageUrl": "xx_movie_6_icon@3x",
+    "thumbImage": "xx_movie_6_thumb@3x",
+    "showTime": "2020-12-25",
+    "showPlace": "美国",
+    "totalMinute": 101,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "彼特·道格特",
+            "userIcon": "xx_movie_6_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "杰米·福克斯",
+            "userIcon": "xx_movie_6_yy_1@3x",
+            "roleName": "配音",
+        },
+        {
+            "modelId": 3,
+            "userName": "蒂娜·菲",
+            "userIcon": "xx_movie_6_yy_2@3x",
+            "roleName": "配音",
+        },
+        {
+            "modelId": 4,
+            "userName": "菲利西亚·拉斯海德",
+            "userIcon": "xx_movie_6_yy_3@3x",
+            "roleName": "配音",
+        },
+        {
+            "modelId": 5,
+            "userName": "阿米尔-卡利布·汤普森",
+            "userIcon": "xx_movie_6_yy_4@3x",
+            "roleName": "配音",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 18,
+            "userIcon": "xx_rand_header_18@3x",
+            "userName": "",
+            "content": "真的是没想到会这么好，本来还以为只是套路化的励志故事，但它超越了这一切，超越了现代社会推崇我们的“要找到梦想和目标才是人生圆满”，生活的每一个当下都是生命的火花",
+            "time": "2021-03-23 19:40:22",
+        },
+        {
+            "modelId": 19,
+            "userIcon": "xx_rand_header_19@3x",
+            "userName": "",
+            "content": "我感觉我就像22，找不到属于自己的火花，想通过电影找一份答案，找到天命，但是结局还是那么范，更像一个有梦的人，一个音乐梦，不停的追梦。虽然最后结束了辉煌之后，感觉平静，但是他还是有对音乐的热爱，所以能够开朗的说，接下来的生活就是珍惜",
+            "time": "2021-02-18 20:02:00",
+        },
+        {
+            "modelId": 20,
+            "userIcon": "xx_rand_header_20@3x",
+            "userName": "",
+            "content": "不是过去不是未来活在当下、禅、关于忘我和真正的爵士乐，以及请配合《爆裂鼓手》观看",
+            "time": "2021-01-16 21:10:11",
+        }
+    ]
+}, {
+    "score": 8.0,
+    "flowDid": 34,
+    "title": "你好，李焕英",
+    "titleEng": "HI,MOM",
+    "desc": "2001年的某一天，刚刚考上大学的贾晓玲（贾玲 饰）经历了人生中的一次大起大落。一心想要成为母亲骄傲的她却因母亲突遭严重意外，而悲痛万分。在贾晓玲情绪崩溃的状态下，竟意外的回到了1981年，并与年轻的母亲李焕英（张小斐 饰）相遇，二人形影不离，宛如闺蜜。与此同时，也结识了一群天真善良的好朋友。晓玲以为来到了这片“广阔天地”，她可以凭借自己超前的思维，让母亲“大有作为”，但结果却让晓玲感到意外...",
+    "labelList": ["剧情", "喜剧"],
+    "modelId": 7,
+    "flowWill": 23,
+    "imageUrl": "xx_movie_7_icon@3x",
+    "thumbImage": "xx_movie_7_thumb@3x",
+    "showTime": "2021-02-12",
+    "showPlace": "中国大陆",
+    "totalMinute": 128,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "贾玲",
+            "userIcon": "xx_movie_7_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "贾玲",
+            "userIcon": "xx_movie_7_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "张小斐",
+            "userIcon": "xx_movie_7_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "沈腾",
+            "userIcon": "xx_movie_7_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "陈赫",
+            "userIcon": "xx_movie_7_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "刘佳",
+            "userIcon": "xx_movie_7_yy_5@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 21,
+            "userIcon": "xx_rand_header_21@3x",
+            "userName": "",
+            "content": "能理解贾玲执意拍这部电影，在惹妈妈生气了十几年终于有能力回报妈妈的时候，妈妈离自己而去，这种无能无力的遗憾感实在是太难受了。她不是因为想当导演拍了这部电影，而是因为想拍这部给妈妈的电影才当导演",
+            "time": "2021-03-24 19:42:22",
+        },
+        {
+            "modelId": 22,
+            "userIcon": "xx_rand_header_22@3x",
+            "userName": "",
+            "content": "久闻大名终于看掉了，泪点出现在片名出现之前和结尾反转之后，中间些许有些冗长和俗套。化工厂为什么还有人种地，大概是东北特色？大多数人认为的母爱其实是自我感动的，真正母亲视角的舐犊之情其实鲜为人知，所以结尾的视角转换让这部电影能够脱颖而出。寸草心实在难报三春晖",
+            "time": "2021-03-20 20:12:00",
+        },
+        {
+            "modelId": 23,
+            "userIcon": "xx_rand_header_23@3x",
+            "userName": "",
+            "content": "年里面和家里人一起去看的，我跟老妈哭的稀里哗啦的，很好看",
+            "time": "2021-03-10 21:12:12",
+        },
+        {
+            "modelId": 24,
+            "userIcon": "xx_rand_header_24@3x",
+            "userName": "",
+            "content": "原本没打算看的，然后身边人都去看了自己在抖音也经常刷到周末就去看了一下。满触动的，看的最后眼泪掉的不停，挺不错的",
+            "time": "2021-02-16 18:19:10",
+        },
+        {
+            "modelId": 25,
+            "userIcon": "xx_rand_header_25@3x",
+            "userName": "",
+            "content": "电影质感不多，但是确实真诚",
+            "time": "2021-02-15 16:10:20",
+        }
+    ]
+}, {
+    "score": 5.5,
+    "flowDid": 18,
+    "title": "我在时间尽头等你",
+    "titleEng": "HI,MOM",
+    "desc": "林格（李鸿其 饰）人生所有美好的记忆，都与邱倩（李一桐 饰）有关。一场意外、一块神奇的表彻底改变了两人的人生......时空不断被重置，唯一不变的，是爱你如初的心。",
+    "labelList": ["爱情", "奇幻"],
+    "modelId": 8,
+    "flowWill": 9,
+    "imageUrl": "xx_movie_8_icon@3x",
+    "thumbImage": "xx_movie_8_thumb@3x",
+    "showTime": "2020-08-25",
+    "showPlace": "中国大陆",
+    "totalMinute": 115,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "姚婷婷",
+            "userIcon": "xx_movie_8_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "李鸿其",
+            "userIcon": "xx_movie_8_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "李一桐",
+            "userIcon": "xx_movie_8_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "范伟",
+            "userIcon": "xx_movie_8_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "张超",
+            "userIcon": "xx_movie_8_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "罗辑",
+            "userIcon": "xx_movie_8_yy_5@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 26,
+            "userIcon": "xx_rand_header_26@3x",
+            "userName": "",
+            "content": "抱着去看烂片的心态去看的，结果发现还可以。虽然剧情落俗，但是拍的还算OK。范伟最后那段真的是...轻描淡写的说一番话就把我弄哭了。BTW姚导很漂亮啊...",
+            "time": "2020-09-11 18:25:22",
+        },
+        {
+            "modelId": 27,
+            "userIcon": "xx_rand_header_27@3x",
+            "userName": "",
+            "content": "2020那么难，还好有爱情。",
+            "time": "2020-09-10 20:10:12",
+        }
+    ]
+}, {
+    "score": 7.3,
+    "flowDid": 23,
+    "title": "緝魂",
+    "titleEng": "The Soul",
+    "desc": "著名集团董事长王世聪惨死家中，负责此案的检察官梁文超（张震 饰）与妻子刑警阿爆（张钧甯 饰）在调查中得知：死者的儿子王天佑（林晖闵 饰），年轻的新婚妻子李燕（孙安可 饰），多年合伙人万宇凡（李铭顺 饰），甚至死去的前妻唐素贞（张柏嘉 饰），每个人之间都有着错综复杂的关联 。阿爆更是发现隐藏在案件背后的惊人秘密……电影根据江波小说《移魂有术》改编。",
+    "labelList": ["悬疑", "惊悚"],
+    "modelId": 9,
+    "flowWill": 16,
+    "imageUrl": "xx_movie_9_icon@3x",
+    "thumbImage": "xx_movie_9_thumb@3x",
+    "showTime": "2021-01-15",
+    "showPlace": "中国大陆",
+    "totalMinute": 130,
+    "roleList":[
+        {
+            "modelId": 1,
+            "userName": "程伟豪",
+            "userIcon": "xx_movie_9_yy_0@3x",
+            "roleName": "导演",
+        },
+        {
+            "modelId": 2,
+            "userName": "张震",
+            "userIcon": "xx_movie_9_yy_1@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 3,
+            "userName": "张钧甯",
+            "userIcon": "xx_movie_9_yy_2@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 4,
+            "userName": "孙安可",
+            "userIcon": "xx_movie_9_yy_3@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 5,
+            "userName": "李铭顺",
+            "userIcon": "xx_movie_9_yy_4@3x",
+            "roleName": "演员",
+        },
+        {
+            "modelId": 6,
+            "userName": "张柏嘉",
+            "userIcon": "xx_movie_9_yy_5@3x",
+            "roleName": "演员",
+        }
+    ],
+    "commentList":[
+        {
+            "modelId": 28,
+            "userIcon": "xx_rand_header_28@3x",
+            "userName": "",
+            "content": "还不错，挺能想的，只是结尾觉得男女主没有必要去坐牢呀 另外，这个技术真可怕。",
+            "time": "2021-03-20 18:10:22",
+        },
+        {
+            "modelId": 29,
+            "userIcon": "xx_rand_header_29@3x",
+            "userName": "",
+            "content": "人都是自私的 为了爱就没有原则和为了成功不择手段有什么本质的区别？不喜欢。",
+            "time": "2021-03-10 17:12:02",
+        },
+        {
+            "modelId": 30,
+            "userIcon": "xx_rand_header_30@3x",
+            "userName": "",
+            "content": "这个设定太魔了，结局是想不到的，张震的演技真的叹为观止。",
+            "time": "2021-03-02 15:12:13",
+        }
+    ]
+}]
